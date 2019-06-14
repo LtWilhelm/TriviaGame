@@ -111,7 +111,7 @@ span {
     font-size: 1.3em;
 }
 
-@media screen and (max-width: 420px) {
+@media screen and (max-width: 500px) {
     .container{
         width: 100%;
     }
