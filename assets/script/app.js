@@ -82,6 +82,9 @@ const $timer = $('#timer');
 
 // Function declaration
 function gameStart () {
+    correct = 0;
+    incorrect = 0;
+    qIndex = 0;
     showQuestion();
     showStats();
 }
